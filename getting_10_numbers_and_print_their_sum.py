@@ -10,3 +10,4 @@ num += float(input("Enter eighth number: "))
 num += float(input("Enter ninth number: "))
 num += float(input("Enter tenth number: "))
 #operations and print
+print(num)
