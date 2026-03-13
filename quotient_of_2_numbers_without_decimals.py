@@ -1,4 +1,5 @@
 #input
-num = float(input("Enter first number: "))
-num //= float(input("Enter second number: "))
+num = int(input("Enter first number: "))
+num //= int(input("Enter second number: "))
 #operations and print
+print(num)
