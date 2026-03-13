@@ -1,0 +1,2 @@
+#input
+#operations and print
