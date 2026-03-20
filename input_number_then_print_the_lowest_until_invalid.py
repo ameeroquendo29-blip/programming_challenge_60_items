@@ -1,5 +1,7 @@
 #input
-num = float(input("Enter a number: "))
 #store
 #if condition
 #while loop
+setnum = set()
+num = float(input("Enter a number: "))
+setnum.add(num)
