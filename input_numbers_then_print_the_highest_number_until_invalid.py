@@ -2,5 +2,7 @@
 #store
 #while loop
 setnum = set()
-num = int(input("Enter a number: "))
-setnum.add(num)
+while True:
+    num = int(input("Enter a number: "))
+    setnum.add(num)
+    print(max(setnum))
