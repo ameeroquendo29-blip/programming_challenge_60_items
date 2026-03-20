@@ -2,7 +2,8 @@
 #store
 #print
 #while loop
+setnum = set()
 while True:
-    setnum = set()
     num = float(input("Enter a number: "))
     setnum.add(num)
+    print(sorted(setnum, reverse=True))
