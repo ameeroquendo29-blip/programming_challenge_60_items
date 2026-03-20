@@ -1,0 +1,3 @@
+#input
+#reverse casing
+#print
