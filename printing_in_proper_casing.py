@@ -1,0 +1,3 @@
+#input
+#proper case
+#print
