@@ -1,0 +1,4 @@
+#input
+#lowercase
+#print
+
