@@ -1,4 +1,5 @@
 #input
 #functions
 #print
-cutiepie = input("Enter anything: ")
+cutiepie = input("Enter anything: ").strip()
+print(cutiepie)
