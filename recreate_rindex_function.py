@@ -8,3 +8,4 @@ def manual_rindex(text, sub):
         if text[i : i + sub_len] == sub:
             return i
     raise ValueError(f"substring '{sub}' not found")
+print(manual_rindex("ab_ab_ab", "ab")) # Output: 6
