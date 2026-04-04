@@ -1,9 +1,8 @@
 #if statement
 #conditions
 #print
-def manual_endswith(text, suffix):
-    if len(suffix) > len(text):
+def manual_startswith(text, prefix):
+    if len(prefix) > len(text):
         return False
-    return text[-len(suffix):] == suffix
-print(manual_endswith("document.pdf", ".pdf"))
-print(manual_endswith("image.jpg", ".png"))
+    return text[:len(prefix)] == prefix
+print(manual_startswith("Pythonic", "Py"))
