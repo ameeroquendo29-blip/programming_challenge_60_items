@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea77d86b-d6ce-40ab-b1a2-1f41ddace1c1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3AhAZMSWD4j2gy35zlKy5UXEjVP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.adding_zeroes.executor": "Run",
+    "Python.capitalization_of_names.executor": "Run",
+    "Python.counting_of_words.executor": "Run",
+    "Python.difference_of_2_numbers.executor": "Run",
+    "Python.get_10_numbers_and_display_numbers_but_no_duplicates.executor": "Run",
+    "Python.get_10_numbers_and_display_numbers_that does_not_have_duplicate.executor": "Run",
+    "Python.get_10_numbers_and_print_how_many_are_even_numbers.executor": "Run",
+    "Python.get_10_numbers_and_print_num1_minus_the_rest.executor": "Run",
+    "Python.get_10_numbers_and_print_the_count_of_odd.executor": "Run",
+    "Python.getting_10_numbers_and_print_their_sum.executor": "Run",
+    "Python.getting_2_numbers_and_print_equal_if_same_value.executor": "Run",
+    "Python.getting_2_numbers_and_print_not_equal_if_not_same_value.executor": "Run",
+    "Python.getting_2_numbers_and_print_the_bigger_number.executor": "Run",
+    "Python.getting_2_numbers_and_print_the_smaller_number.executor": "Run",
+    "Python.getting_2_numbers_and_print_their_product.executor": "Run",
+    "Python.getting_2_numbers_and_print_their_quotient_with_decimal.executor": "Run",
+    "Python.getting_2_numbers_and_print_their_sum.executor": "Run",
+    "Python.getting_2_numbers_and_the_result_if_first_number_is_raised_to_the_second_number.executor": "Run",
+    "Python.input.executor": "Run",
+    "Python.input_10_numbers_and_display_all_with_duplicate.executor": "Run",
+    "Python.input_a_number_and_display_the_number_with_highest_duplicated.executor": "Run",
+    "Python.input_number_and_display_average_until_invalid.executor": "Run",
+    "Python.input_number_and_display_from_highest_to_lowest.executor": "Run",
+    "Python.input_number_then_[rint_from_lowest_to_highest_until_invalid.executor": "Run",
+    "Python.input_number_then_print_duplicate_or_unique_until_invalid.executor": "Run",
+    "Python.input_number_then_print_the_lowest_until_invalid.executor": "Run",
+    "Python.input_numbers_then_print_the_highest_number_until_invalid.executor": "Run",
+    "Python.pascal_casing.executor": "Run",
+    "Python.print_all_odd_numbers_from_0_to_100.executor": "Run",
+    "Python.print_the_remainder_of_two_numbers.executor": "Run",
+    "Python.printing_all_even_numbers_from_0_to_100.executor": "Run",
+    "Python.printing_all_numbers_from_0_to_100_except_those_who_end_with_0.executor": "Run",
+    "Python.printing_in_lowercase_letters.executor": "Run",
+    "Python.printing_in_proper_casing.executor": "Run",
+    "Python.printing_number_of_characters.executor": "Run",
+    "Python.quotient_of_2_numbers_without_decimals.executor": "Run",
+    "Python.recreate_capitalize_function.executor": "Run",
+    "Python.recreate_center_function.executor": "Run",
+    "Python.recreate_endswith_function.executor": "Run",
+    "Python.recreate_isupper_function.executor": "Run",
+    "Python.recreate_ljust_function.executor": "Run",
+    "Python.recreate_lower_function.executor": "Run",
+    "Python.recreate_lstrip_function.executor": "Run",
+    "Python.recreate_removeprefix_function.executor": "Run",
+    "Python.recreate_rjust_function.executor": "Run",
+    "Python.recreate_rstrip_function.executor": "Run",
+    "Python.recreate_swapcase_function.executor": "Run",
+    "Python.recreate_title_function.executor": "Run",
+    "Python.removing_spaces.executor": "Run",
+    "Python.reverse_casing.executor": "Run",
+    "Python.snake_casing.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea77d86b-d6ce-40ab-b1a2-1f41ddace1c1" name="Changes" comment="" />
+      <created>1773034488259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773034488259</updated>
+    </task>
+    <servers />
+  </component>
+</project>
